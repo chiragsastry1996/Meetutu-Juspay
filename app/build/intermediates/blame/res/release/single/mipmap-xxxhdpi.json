@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\gmail.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-xxxhdpi\\gmail.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\imeetutu.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-xxxhdpi\\imeetutu.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\smarker.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-xxxhdpi\\smarker.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\contact.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-xxxhdpi\\contact.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\meetutu.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-xxxhdpi\\meetutu.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\student.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-xxxhdpi\\student.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\whatsapp.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-xxxhdpi\\whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\list.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-xxxhdpi\\list.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\call.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-xxxhdpi\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\wicon.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-xxxhdpi\\wicon.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\tmarker.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-xxxhdpi\\tmarker.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\tie.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-xxxhdpi\\tie.png"
+    }
+]

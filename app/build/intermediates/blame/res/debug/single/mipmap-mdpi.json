@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]

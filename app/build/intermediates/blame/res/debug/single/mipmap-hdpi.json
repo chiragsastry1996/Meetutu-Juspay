@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\user.png",
+        "source": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\phone.png",
+        "source": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\location.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\location.png",
+        "source": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\close.png",
+        "source": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\confirm_password.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\confirm_password.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\close.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\email.png",
+        "source": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\error.png",
+        "source": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\user.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\email.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\error.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\phone.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\password.png",
+        "source": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\password.png",
+        "source": "C:\\Users\\chira\\Desktop\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\confirm_password.png",
+        "source": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\confirm_password.png"
+    },
+    {
+        "merged": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\chira\\Desktop\\Android\\Meet\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

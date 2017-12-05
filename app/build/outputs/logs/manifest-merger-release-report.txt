@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\chira\.android\build-cache\244e239922a7c0f17cad0cd7f52f59a9b03159aa\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\chira\.android\build-cache\244e239922a7c0f17cad0cd7f52f59a9b03159aa\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:12:5-98
+	android:name
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:12:22-95
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:15:5-69
+	android:name
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:15:22-66
+application
+ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:17:5-58:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\chira\.android\build-cache\42b35c5b381250394857d6109cb51a77d099b98d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\chira\.android\build-cache\0cad47429dbd622b6b6903404a5141827cd23e2e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\chira\.android\build-cache\0d98292c0285310d5d1433a4f9ea4af608a12e71\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\chira\.android\build-cache\244e239922a7c0f17cad0cd7f52f59a9b03159aa\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\chira\.android\build-cache\a8201d4e6464eadfc6d9d9525e60ac4a66b25413\output\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\chira\.android\build-cache\e387235d7bc4d8f4d3097d3352c00cd37bd52d35\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\chira\.android\build-cache\989313a2ae314f3668b9f549d9f013c6d4ec9e1c\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\chira\.android\build-cache\91e4bdf2cd9160733e98f2fa3c129df550341a72\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\chira\.android\build-cache\7e50bb7f0401599cc60fa863c38d664971f63118\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\chira\.android\build-cache\36f021ad06b4acfd65c8853e7540603714de6459\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\chira\.android\build-cache\1113e8f4d3bab08874f19d04b8ef3f6c7c33a76b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\chira\.android\build-cache\b01b1fed578fba7175da20ebb8bbd83df734ac80\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\chira\.android\build-cache\000ba06a300116ff0a0f4e6997bd7b9554e78180\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\chira\.android\build-cache\7dae29ce42216eace745f648b74ccd21198e874b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\chira\.android\build-cache\37a1cf91f753be86823f17121cd1b024db9d5054\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\chira\.android\build-cache\5a8d1b862f26ce01c30dae8bab92c6dcd203ff42\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\chira\.android\build-cache\5da21fd459d8b68186c7a01d7aaf459191b95140\output\AndroidManifest.xml:26:5-20
+	android:label
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:20:9-41
+	android:supportsRtl
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:22:9-35
+	android:roundIcon
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:21:9-44
+	android:allowBackup
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:19:9-40
+	android:theme
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:23:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:33:9-35:55
+	android:value
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:35:13-52
+	android:name
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:34:13-58
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:36:9-38:69
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\chira\.android\build-cache\a8201d4e6464eadfc6d9d9525e60ac4a66b25413\output\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\chira\.android\build-cache\7e50bb7f0401599cc60fa863c38d664971f63118\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:38:13-66
+	android:name
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:37:13-58
+activity#com.example.meet.MainActivity
+ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:40:9-44:20
+	android:label
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:41:13-41
+activity#com.example.meet.MapsActivity
+ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:45:9-47:58
+	android:label
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:46:13-41
+activity#com.example.meet.Teacher
+ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:48:9-50:20
+	android:name
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:48:19-42
+activity#com.example.meet.SplashScreen
+ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:51:9-57:20
+	android:name
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:51:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:52:13-56:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml:55:27-74
+uses-sdk
+INJECTED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\chira\.android\build-cache\42b35c5b381250394857d6109cb51a77d099b98d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\chira\.android\build-cache\0cad47429dbd622b6b6903404a5141827cd23e2e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\chira\.android\build-cache\0d98292c0285310d5d1433a4f9ea4af608a12e71\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\chira\.android\build-cache\244e239922a7c0f17cad0cd7f52f59a9b03159aa\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\chira\.android\build-cache\a8201d4e6464eadfc6d9d9525e60ac4a66b25413\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\chira\.android\build-cache\e387235d7bc4d8f4d3097d3352c00cd37bd52d35\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\chira\.android\build-cache\989313a2ae314f3668b9f549d9f013c6d4ec9e1c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\chira\.android\build-cache\91e4bdf2cd9160733e98f2fa3c129df550341a72\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\chira\.android\build-cache\7e50bb7f0401599cc60fa863c38d664971f63118\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\chira\.android\build-cache\36f021ad06b4acfd65c8853e7540603714de6459\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\chira\.android\build-cache\1113e8f4d3bab08874f19d04b8ef3f6c7c33a76b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\chira\.android\build-cache\b01b1fed578fba7175da20ebb8bbd83df734ac80\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\chira\.android\build-cache\000ba06a300116ff0a0f4e6997bd7b9554e78180\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\chira\.android\build-cache\7dae29ce42216eace745f648b74ccd21198e874b\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\chira\.android\build-cache\37a1cf91f753be86823f17121cd1b024db9d5054\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\chira\.android\build-cache\5a8d1b862f26ce01c30dae8bab92c6dcd203ff42\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\chira\.android\build-cache\5da21fd459d8b68186c7a01d7aaf459191b95140\output\AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\chira\.android\build-cache\42b35c5b381250394857d6109cb51a77d099b98d\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chira\Desktop\Meet\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\chira\.android\build-cache\42b35c5b381250394857d6109cb51a77d099b98d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\chira\.android\build-cache\0cad47429dbd622b6b6903404a5141827cd23e2e\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\chira\.android\build-cache\0d98292c0285310d5d1433a4f9ea4af608a12e71\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\chira\.android\build-cache\36f021ad06b4acfd65c8853e7540603714de6459\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\chira\.android\build-cache\1113e8f4d3bab08874f19d04b8ef3f6c7c33a76b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\chira\.android\build-cache\b01b1fed578fba7175da20ebb8bbd83df734ac80\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\chira\.android\build-cache\000ba06a300116ff0a0f4e6997bd7b9554e78180\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\chira\.android\build-cache\7dae29ce42216eace745f648b74ccd21198e874b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\chira\.android\build-cache\37a1cf91f753be86823f17121cd1b024db9d5054\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\chira\.android\build-cache\5da21fd459d8b68186c7a01d7aaf459191b95140\output\AndroidManifest.xml:22:5-24:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\chira\.android\build-cache\42b35c5b381250394857d6109cb51a77d099b98d\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\chira\.android\build-cache\42b35c5b381250394857d6109cb51a77d099b98d\output\AndroidManifest.xml:26:9-47
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\chira\.android\build-cache\244e239922a7c0f17cad0cd7f52f59a9b03159aa\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\chira\.android\build-cache\244e239922a7c0f17cad0cd7f52f59a9b03159aa\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\chira\.android\build-cache\244e239922a7c0f17cad0cd7f52f59a9b03159aa\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\chira\.android\build-cache\989313a2ae314f3668b9f549d9f013c6d4ec9e1c\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\chira\.android\build-cache\989313a2ae314f3668b9f549d9f013c6d4ec9e1c\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\chira\.android\build-cache\989313a2ae314f3668b9f549d9f013c6d4ec9e1c\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\chira\.android\build-cache\989313a2ae314f3668b9f549d9f013c6d4ec9e1c\output\AndroidManifest.xml:19:19-85
